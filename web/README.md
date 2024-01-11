@@ -1,9 +1,9 @@
-#Demo Git Repository 
+# Demo Git Repository 
 
 First line of this file
 
 
-#WEBSITE CONTENTS
+# WEBSITE CONTENTS
 
 Here are the files needed for the webpage:
 
