@@ -3,10 +3,7 @@
 First line of this file
 
 
-## More Details
-Just checking how git , github works !!
-Bye
+#WEBSITE CONTENTS
 
-
-### Some more details
-Learning Git is so much fun and easy though
+1. Portfolio.html
+2. Portfolio.css
